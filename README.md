@@ -48,6 +48,8 @@ My solutions are organized into folders corresponding to the course's weekly pro
 ## ⚠️ Academic Honesty Disclaimer
 These solutions are provided as a portfolio of my work and to document my personal learning journey. If you are a current student taking CS50 SQL, please respect the [CS50 Academic Honesty Policy](https://cs50.harvard.edu/sql/syllabus/#academic-honesty). Do not copy these solutions for your own assignments.
 
+
+
 # CS50's Introduction to Databases with SQL - Portafolio 🗄️
 
 ¡Bienvenido a mi repositorio! Este espacio contiene mis soluciones y prácticas del curso **CS50's Introduction to Databases with SQL** (CS50 SQL), impartido por la Universidad de Harvard.
